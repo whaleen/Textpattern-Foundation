@@ -9,6 +9,8 @@ Textpattern &amp; Foundation 4
 
     $ cd txp.foundation
 
+    
     $ gem install sass
 
+    
     $ sass --watch scss:css
