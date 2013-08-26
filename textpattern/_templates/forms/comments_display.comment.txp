@@ -14,7 +14,7 @@
     <!-- if this is a comment preview, display it (but only if there is no error) -->
         <txp:if_comments_preview>
             <li>
-                <p id="cpreview"><txp:text item="press_preview_then_submit" /></p>
+                <p id="cpreview" class="alert-box secondary"><txp:text item="press_preview_then_submit" /></p>
                 <txp:comments_preview wraptag="" /> <!-- links by default to form: 'comments.comment.txp' unless you specify a different form -->
             </li>
         </txp:if_comments_preview>
