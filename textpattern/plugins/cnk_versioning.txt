@@ -1,0 +1,76 @@
+# Name: cnk_versioning v0.1.7 (mod) (compressed)
+# Type: Admin/Public side plugin
+# Autoload Templates
+# Author: Christian Nowak (mod by Maniqui)
+# URL: http://www.cnowak.de
+# Recommended load order: 5
+ 
+# .....................................................................
+# This is a plugin for Textpattern - http://textpattern.com/
+# To install: textpattern > admin > plugins
+# Paste the following text into the 'Install plugin' box:
+# .....................................................................
+ 
+H4sIAAAAAAAAA+1b6W/bxhL/LP0Va0IIpValbKduC8lW48ZOa7zYDhyl7UNgsCtxZRGhSIaH
+D7T+39/M7PIUdcv99AzYFveYneO3M7M7FO8efN/9O+x+39VcPhVaL8QGbeR+Me9FENqea7t3
+2PpjV1MNNOagq+0bB8aPrDn1rBY2/dTVAnFvJyP2uxr++6Gr8TiaeAE+vD7sam8ngR1GNnfZ
+lffAv9B8Nnxil9y1v8Y2kTrYT2aZcWBjyyG0TKLI73Y6Dw8PxsjFuYYlEl4sEY4C248S9oCZ
+0zjyHI9bbCCmvsMjEWLPUVfzAksQOzDvCP+DvNGTL1TTgRo2dvhdqNr2E66QoFlFYCIcX+sN
+u/soJugvDHNKQIV6itmjg+/h0R6z5t44dkfIsSkeQSVhUx/bjjD9ODJHnhsJNwr1Vqv+d53B
+TzKWzYxpNrAJjddmDYtHvEUT5DT8aYzZCXsz9nzh5sfqD3qrV09HEUeNcSttyAjgTyCiOIDV
+uROKXtrznH4S0D5namP4BMoHHsYPgR0J4CFhtFcYNx45XojdpXa1tCRTXvu5/lyv3znekDus
+8fbqP+bv5zfm9afBh08D88Pp4Ld21nr+56D4ZL79+DHXcvHr1fXN+Zl5dXp5/hE0U0UOpNC5
+NbXdjt5jnY4w7gymR+Ix8nkUicDtmFGCtk62fzp6Pb8uEokefb1XL3ODPQAd6Kl3OmwwsUOG
+xgrZg+04bCiYfed6gbAYAEE8+l4QIXV7qj7Vq2UBqjwI+FMTWLfNex7YfOiIkMzf+aZeO7tm
+V9cDdn52MWC/nL+//oMNfrv4yN5fXJ3v1b/pzNVEFNjTZrXS9Y7eMir7foaurk5r2+PmG9CD
+DTgOxnwk2EmiXR1hX+OWZfqBfQ87o+iP9LZ+0D5EGrVA3MHeEYEZ8WFT9wMRwp7guFN04KI8
+jWm/Z06tMH3EHWfIR1/SpcwJdy1HBBVklky07BD1a3quY7vCFJYdycV1n9+JzWePvWC6+WyE
+FUx+ruNOpd0+q3s/Hjr2SCp/wSI5vCPl/COtUE+dVcWMJlFPdqwfeFYsnWAIZovD9ka7GMBU
+Q5Fm6bE9kMux70Hv9RosXGuIIPAC9EbSlUETbLVAQKAAQcm9hjgMtY1OCzmtBLJBBgk73xi6
+kecHLVRroKmXTKchc6aDtRZPhgEzU1ETLZKIdCEl2DtRorZYKvpeYhc/DicmjVPDaXWpSRJg
++Wwap4Zns5H/5XNhFA3NMU0DW0yMJh7Tz/EBnN8EjMLCJ3c0CWAHhoBohvFjyAHJsEul0cBp
+1p4r0TflbswdM/Zhkijib0OsobSR5zf13/PORXq1ek0yf2zZ9yyMnhxxok15cGe7XQZJjddj
+uBu+4w748i4bCdyBWv84dvro9tXkT8SrtZdrOu4AQTlmMxDrhtHRmVEp9BpgXkxmRVAvJvJ/
+cFeAuxLaZRlNGr0xxMspUIYgmUCQLI0AG0I+FmbgPYToaIOoqVNWiXl0++Ld1af375uxaz+a
+kQ3pS8SnfpMSV0j2qanVZvstxkOWNFAgefRJFvx8cHJAu6km9dPERV+9Yg3Uswv758Z7wLZW
+4tWJz8+LoA1wCj4Tl/otYEs+Ir/JY04lt7AKdqfc3ZJzqdeAFPBin+z3WMNmx2zkxW5UUD12
+fPttwtbIc1BZkKs5cAAA2INsaFlkIz/tc8O+BanL20buGxyMDCGxz/u3CQ73bNeUZmmo7L/S
+jK0WQ1bQQRDwtHewKpPOENAVeFOCWJcRleNhwDp9DdegRewwFEpAYLLI8G2LTFLdB8rBhymq
+rywpWq1GCqrVEiRLhsj+M8OJm2f8kyYve4sZW2+BNqSysciWeabjTJXaME9eQXXPOUiW9YJ5
+VuCNBPBv6QpWsIglHBEJ8OFT7x6J42TCm+CjSerwYMc0vogndtJnjXvuANMSaOReqIESnmwB
+VMSsHF2ikrf1EqTC6HnwrMRnrYE7K208uCUnuAlsSwaQarIq0FojjyT7m3lfoin+dJqis9Or
+M6a404lNXVOmz5m9wu7zl36WJkdLqsMq4qk6FS7CMDu5j8DQkUhCeqUHB5WT/13iVLITfoW9
+6lXmmjWWRC80Wd5Hh4cT6b0h6am4dpBkZWQkIRQmyR62GwqMDvPt0S4Zo83U0npDTShEDuh4
+d3N9aX66uvhzcHF53tQ1g3xMy9D0FlkSTEHXERkXKvUrcLHNKiuDqjohLecWO4/aScK2YtTe
+JmDTmXaDgE0szgnYMomcDdhbROicmosRWtkx2z/ZyDlBedv4+wEWWDf+Km0VeVPxt7qvGH+L
+nQvCIw6cGb4g/s5hbL0FVoq/pLZ14u8cvawWf2lyPv7KLTUv/ha4nImuy6PzLAyrI+4Owijp
+cZ0wqnZ4yeMtjJmprXYaMyV0NouZM/pdECYx/MUhXgFGU2fHMbBamW2WX0/PVt959EvW3816
+1ahYEPSSQ/EmEW/JdX1yv/AvxDy8S90g5MG0OQEPLzwWhjuUfd2Ql6l5ScRLB75QwMPCxprx
+jlRV4EsFu4qOYqQr9C2IQ0UkLgtzVfysQ3ulCId6WifAVeliteiGO0VdEmYRDhuXxjfg8eXC
+W3bHt12IQ0WuE+Hkfl4nwCWm2ml8I9isHd6SO+l1QpxSdOIydxngKnXZZnIhvSG7dxvT1JKb
+L7FOGFNlwWZD3IOGwEphJHyyjT1u7tETA3+cwy42tZMKbFqTEG6stwlU8kfP4qTjmNxxqntB
+1dHcTkss7C7UQfRWEpfyLDVntE3sN+fro7riWKEe2DsjR/CAecN6zRuawrVMbHBlrKb6Be0T
+eZ0OETmEXGVOsaWVq4tsU2f5gyJ3sb7L7JAB5kEoC9w21uBToeGzktcyqkozldUnVGtDiYMQ
+k/XV6hJSMm5X8h07dv+Ys0kgxifaz2STk1I12+CGjkY6KQNQ6/+B72vIoxB7Ja8kWeTJyHHc
+4f3jDpDfcrUCKLX+JT06T/hywd2dCBhev7UZHSheQYbWY1k2MbN8pyR87BQV9x0ovMsO9vf9
+R21bvtVO0/oX8sOu9JHuYa1/lnyspF0WdhEGE5NuXfxclH+niJawSYCSFkY3wrOehJ07P2zq
+lkei6C32zz/QlFYSjUX3SDPFSHaSFO8wpVxKZU5ldE0qc2uaGZ3WwlcUIjiiYE469hwL8MPo
+pTGqEE74vWAPcq+KYAopK9g+VInZGzs0sQ+d1gpi6nl+0vQtYUimMJggkynfEStM68i5GvpH
+14tYsp4hEyL5V5d567psqbvAjdiSc1+ELTqxbcQUzpxlqcjGnioVJ0QlDe0C3/4Cr9FlmmFP
+1e0/bK+5mbGh54SUpAsuQVaO5UlGrZSyi87+QQSChfEI8/lxjG4ZGYbUEHd3NBE501t2IEaR
+FzzNalcdqlRSUV5pMMFFHuDkwZPYL8/T6hyBEZkWqSZcLZi8XK8S7ANFsxUES8DzooLRIusI
+hmeEKrE+okNdSS6Jv0yqHUkCZPOkiH/l8HPSLY6GWv8XPvqCrGLSZBgGBj69nJHmeeL46+CL
+L08s9CCFp5DDbJeEJe22VeICTOMJIRW8jTLAwTd5tRIOxkFgW8I12JnHnrwYBHYjZAZPQ7Yb
+i58LdjJQQn3T5Ip6VDg7OdD6/0VGkQXpx8m5E/JRHqWJtZfX+ldemw3RZYBG2VApF1Uzo+DV
+8wjlNHZXrVpwS0c1NWnBLd8QKV0opFdt6702kdtN8mLm74zSc/ku683su9orBOA1XlNp030g
+KeQ2H4tKb2sve6FhVaEQJPg7v6S61pk7s+DSC5K8T/93cJe/Ed+mzrk17Ojk85KwW6HYKnGW
+qWQDsKUVodXBVo21pIDxslijMLvb6sQitKmCwua1ha1hhqfql0TZShUOiTPUwAYIS65ktwWY
+uk18MXypM31z3i0Q++DEcChm6l4h/S7DkjP0zBF65gSd3jB4GQ+tfEp17Pfzi1LCl+WSxx1/
+Xi5WnsiHXhAJK5uxUnKR5wt10wi/YnVSO30/OL9hg9Nf3p/DuYfs5Y8fc5EHjMBOz87YXwWb
+/cXOTgfnaC2Glb7eIjLyixlbk6HvWKxCRUtskr4yPOTRaGJ+jUWAN8ZfncQyJegXlF+A2rzr
+WbEq3tLbpt0hLrmzye6l8/4qZ/ccl+mZN4VWkbE5qKRDhzq9LJxewqZ0A7OI3vTWLsnr04Y0
+ub/A9/PpRKaOFVb+em+9fVKy6lo75ezm+kMZnattjrVnJvuhcuK/twdydPFFHvkJYo1vRgF3
+Q66+LwSsq2sbVc6hweUh6ftriuAJnL0HpzcDNrg5vfp4+nZwcX3Vo682JCMMpvfY2+vLy4tB
+LzFzg7rM0HfsCEj4gbhTD02t87l3+21Ha6cUaBtmddr8VKzXjrzplLuWifWX7L3zrC39pl5h
+YPathMLYPVmgSC6z5FqBCGMnStIXZaBZapJccUr+fkxdKgxBkC9zaqSF2QB/TX6ddmodJd8f
+fj08OrR+HPGfXo9/OBz/dGjx4ZEQh0cjfjQW1uux1nv+H5ildnrUPAAA
