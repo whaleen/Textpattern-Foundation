@@ -16,7 +16,7 @@
 <!-- css -->
 
 	<link rel="stylesheet" href="<txp:site_url />txp.foundation/css/foundation.css">
-
+	
 <!-- HTML5/Media Queries support for IE8 (you can remove this section and the corresponding 'js' directory file if you don't intend to support IE8) -->
     <!--[if lt IE 9]>
         <script src="<txp:site_url />js/html5shiv.js"></script>
@@ -31,8 +31,10 @@
 
 <!-- header -->
     <header role="banner" class="row">
-        <h1><txp:link_to_home><txp:site_name /></txp:link_to_home></h1>
-        <h3><txp:site_slogan /></h3>
+		<div class="large-12 columns">
+    	    <h1><txp:link_to_home><txp:site_name /></txp:link_to_home></h1>
+        	<h3><txp:site_slogan /></h3>
+		</div>
     </header>
 
 <!-- navigation -->
@@ -65,10 +67,13 @@
 
 <!-- footer -->
     <footer role="contentinfo" class="row">
+	<div class="large-12 columns">    
         <p><small><txp:text item="published_with" /> <a rel="external" href="http://textpattern.com" title="<txp:text item="go_txp_com" />">Textpattern CMS</a>.</small></p>
+	</div>
     </footer>
 
     <!-- add your own JavaScript here -->
+    <txp:output_form form="tf_javascript" />
 
 </body>
 </html>

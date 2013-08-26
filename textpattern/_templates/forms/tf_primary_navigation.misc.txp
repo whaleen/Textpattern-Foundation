@@ -1,11 +1,13 @@
 <txp:if_section name="default, about">
 
     <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
+		<div class="large-12 columns">
         <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="" class="inline-list">
             <li<txp:if_section name='<txp:section />'><txp:if_search><txp:else /><txp:if_category><txp:else /><txp:if_author><txp:else /> class="active"</txp:if_author></txp:if_category></txp:if_search></txp:if_section>>
                 <txp:section title="1" link="1" />
             </li>
         </txp:section_list>
+        </div>
     </nav>
 
 </txp:if_section>
@@ -13,12 +15,14 @@
 
 <txp:if_section name="articles">
 
-        <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
+	<nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
+		<div class="large-12 columns">
         <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="" class="inline-list">
             <li<txp:if_section name='<txp:section />'> class="active"</txp:if_section>>
                 <txp:section title="1" link="1" />
             </li>
         </txp:section_list>
+        </div>
     </nav>
 
 </txp:if_section>
