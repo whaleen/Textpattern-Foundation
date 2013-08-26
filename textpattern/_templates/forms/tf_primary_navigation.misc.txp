@@ -1,4 +1,4 @@
-<txp:if_section name="default">
+<txp:if_section name="default, about">
 
     <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
         <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="" class="inline-list">
@@ -11,7 +11,7 @@
 </txp:if_section>
 
 
-<txp:if_section name="archive">
+<txp:if_section name="articles">
 
         <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
         <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="" class="inline-list">
