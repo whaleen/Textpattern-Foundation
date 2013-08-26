@@ -1,0 +1,12 @@
+	<form role="search" method="get" action="<txp:site_url />">
+	<h4><label for="search-textbox"><txp:text item="search" /></label></h4>
+
+      <div class="row collapse">
+        <div class="small-9 columns">
+          <input type="search" placeholder="Search" name="q"<txp:if_search> value="<txp:search_term />"</txp:if_search>>
+        </div>
+        <div class="small-3 columns">
+          <a class="button postfix radius">Go</a>
+        </div>
+      </div>
+	</form>	      
