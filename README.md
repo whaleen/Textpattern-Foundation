@@ -13,7 +13,7 @@ Live test: [http://wagebyra.com/projects/txp.foundation/](http://wagebyra.com/pr
 
 
 
-### Using SASS
+### Using Sass
 
     $ cd txp.foundation 
     $ gem install sass
