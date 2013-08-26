@@ -26,11 +26,8 @@
     </txp:if_individual_article>
 
 <!-- css -->
-    <!-- Google font API (remove this if you intend to use the theme in a project without internet access) -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic|Cousine">
 
-    <txp:css format="link" media="" />
-    <!-- or you can use (faster) external CSS files eg. <link rel="stylesheet" href="<txp:site_url />css/default.css"> -->
+	<link rel="stylesheet" href="<txp:site_url />txp.foundation/css/foundation.css">
 
 <!-- HTML5/Media Queries support for IE8 (you can remove this section and the corresponding 'js' directory file if you don't intend to support IE8) -->
     <!--[if lt IE 9]>
@@ -38,18 +35,20 @@
         <txp:css format="link" media="" name="ie8" />
     <![endif]-->
 
+	<script src="<txp:site_url />txp.foundation/js/vendor/custom.modernizr.js"></script>
+	
 </head>
 
 <body class="<txp:section />-page">
 
 <!-- header -->
-    <header role="banner">
+    <header role="banner" class="row">
         <h1><txp:link_to_home><txp:site_name /></txp:link_to_home></h1>
         <h3><txp:site_slogan /></h3>
     </header>
 
 <!-- navigation -->
-    <nav role="navigation" class="site-navigation" aria-label="<txp:text item="navigation" />">
+    <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
         <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="">
             <li<txp:if_section name='<txp:section />'> class="active"</txp:if_section>>
                 <txp:section title="1" link="1" />
@@ -57,11 +56,11 @@
         </txp:section_list>
     </nav>
 
-    <div class="wrapper">
-        <div class="container">
+
+        <div class="row">
 
 <!-- left (main) column -->
-            <main role="main" aria-label="<txp:text item="main_content" />">
+            <main role="main" class="large-8 columns" aria-label="<txp:text item="main_content" />">
 
                 <txp:if_article_list>
 
@@ -133,7 +132,7 @@
             </main>
 
     <!-- right (complementary) column -->
-            <div role="complementary">
+            <div role="complementary" class="large-4 columns">
                 <txp:search_input /> <!-- links by default to form: 'search_input.misc.txp' unless you specify a different form -->
     
                 <!-- Feed links, default flavor is rss, so we don't need to specify a flavor on the first feed_link -->
@@ -143,11 +142,10 @@
                 <txp:linklist wraptag="ul" break="li" limit="10" /> <!-- links by default to form: 'plainlinks.link.txp' unless you specify a different form -->
             </div> <!-- /complementary -->
 
-        </div> <!-- /.container -->
-    </div> <!-- /.wrapper -->
+        </div> <!-- /.row -->
 
 <!-- footer -->
-    <footer role="contentinfo">
+    <footer role="contentinfo" class="row">
         <p><small><txp:text item="published_with" /> <a rel="external" href="http://textpattern.com" title="<txp:text item="go_txp_com" />">Textpattern CMS</a>.</small></p>
     </footer>
 

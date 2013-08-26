@@ -38,8 +38,6 @@
     </txp:if_section>
 
 <!-- css -->
-    <!-- Google font API (remove this if you intend to use the theme in a project without internet access) -->
-    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700,700italic|Cousine">
 
 	<link rel="stylesheet" href="<txp:site_url />txp.foundation/css/foundation.css">
 
@@ -49,8 +47,7 @@
         <txp:css format="link" media="" name="ie8" />
     <![endif]-->
     
-  <script src="<txp:site_url />txp.foundation/js/vendor/custom.modernizr.js"></script>
-    
+	<script src="<txp:site_url />txp.foundation/js/vendor/custom.modernizr.js"></script>    
 
 </head>
 
