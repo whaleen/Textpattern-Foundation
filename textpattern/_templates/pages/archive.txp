@@ -126,7 +126,7 @@
 
             </main>
 
-    <!-- right (complementary) column -->
+<!-- right (complementary) column -->
             <div role="complementary" class="large-4 columns">
                 <txp:search_input /> <!-- links by default to form: 'search_input.misc.txp' unless you specify a different form -->
     
@@ -134,7 +134,7 @@
                 <p><txp:feed_link label="RSS" class="feed-rss" /> / <txp:feed_link flavor="atom" label="Atom" class="feed-atom" /></p>
 
                 <h4><txp:text item="external_links" /></h4>
-                <txp:linklist wraptag="ul" break="li" limit="10" /> <!-- links by default to form: 'plainlinks.link.txp' unless you specify a different form -->
+                <txp:linklist wraptag="ul" break="li" class="no-bullet" limit="10" /> <!-- links by default to form: 'plainlinks.link.txp' unless you specify a different form -->
             </div> <!-- /complementary -->
 
         </div> <!-- /.row -->
@@ -147,6 +147,7 @@
     </footer>
 
     <!-- add your own JavaScript here -->
+    <txp:output_form form="tf_javascript" />
 
 </body>
 </html>
