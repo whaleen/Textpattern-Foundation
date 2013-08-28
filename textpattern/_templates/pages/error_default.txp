@@ -39,9 +39,11 @@
 
 <!-- navigation -->
     <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
+	<div class="large-12 columns">    
             <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="li" class="inline-list">
 			<txp:section title="1" link="1" />
         </txp:section_list>   
+    </div>
     </nav>
         
         <div class="row">
