@@ -11,9 +11,13 @@ Requires [cnk_versioning](https://github.com/whaleen/txp.foundation/blob/master/
 
 Live test: [http://wagebyra.com/projects/txp.foundation/](http://wagebyra.com/projects/txp.foundation/)
 
+## Install
 
+1. Drop [/txp.foundation](https://github.com/whaleen/txp.foundation) in the root directory of your Textpattern project.
+2. Install Textpattern plugin [cnk_versioning](https://github.com/whaleen/txp.foundation/blob/master/textpattern/plugins/cnk_versioning.txt) and edit the path in it's source to point to [/txp.foundation/textpattern/_templates](https://github.com/whaleen/txp.foundation/textpattern/_templates). Follow cnk_versioning's own instructions via the plugin's help if you are not already familiar with how it works.
+3. Sally forth.
 
-### Using Sass
+## Using Sass
 
     $ cd txp.foundation 
     $ gem install sass
