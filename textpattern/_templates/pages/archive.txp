@@ -27,8 +27,8 @@
 
 <!-- css -->
 
-<link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/foundation.css">
-<!-- <link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/css/foundation-sites.min.css"> -->
+<link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation/dist/foundation.css">
+<!-- <link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation/dist/foundation.min.css"> -->
 
 </head>
 
