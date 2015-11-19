@@ -1,4 +1,4 @@
-Textpattern-Foundation
+Foundation 6 for the Textpattern CMS
 ==============
 
 Textpattern &amp; Foundation 6
