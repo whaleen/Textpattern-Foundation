@@ -15,16 +15,9 @@
 
 <!-- css -->
 
-	<link rel="stylesheet" href="<txp:site_url />txp.foundation/css/foundation.css">
-	
-<!-- HTML5/Media Queries support for IE8 (you can remove this section and the corresponding 'js' directory file if you don't intend to support IE8) -->
-    <!--[if lt IE 9]>
-        <script src="<txp:site_url />js/html5shiv.js"></script>
-        <txp:css format="link" media="" name="ie8" />
-    <![endif]-->
+<link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/foundation.css">
+<!-- <link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/css/foundation-sites.min.css"> -->
 
-	<script src="<txp:site_url />txp.foundation/js/vendor/custom.modernizr.js"></script>
-	
 </head>
 
 <body class="error-page">
@@ -39,13 +32,13 @@
 
 <!-- navigation -->
     <nav role="navigation" class="site-navigation row" aria-label="<txp:text item="navigation" />">
-	<div class="large-12 columns">    
+	<div class="large-12 columns">
             <txp:section_list default_title='<txp:text item="home" />' include_default="1" wraptag="ul" break="li" class="inline-list">
 			<txp:section title="1" link="1" />
-        </txp:section_list>   
+        </txp:section_list>
     </div>
     </nav>
-        
+
         <div class="row">
 
 <!-- left (main) column -->
@@ -56,7 +49,7 @@
 
 <!-- right (complementary) column -->
             <div role="complementary" class="large-4 columns">
-            
+
             <txp:output_form form="tf_search_form" />
 
                 <!-- Feed links, default flavor is rss, so we don't need to specify a flavor on the first feed_link -->
@@ -70,7 +63,7 @@
 
 <!-- footer -->
     <footer role="contentinfo" class="row">
-	<div class="large-12 columns">    
+	<div class="large-12 columns">
         <p><small><txp:text item="published_with" /> <a rel="external" href="http://textpattern.com" title="<txp:text item="go_txp_com" />">Textpattern CMS</a>.</small></p>
 	</div>
     </footer>

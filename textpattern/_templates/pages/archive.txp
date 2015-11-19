@@ -27,16 +27,9 @@
 
 <!-- css -->
 
-	<link rel="stylesheet" href="<txp:site_url />txp.foundation/css/foundation.css">
+<link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/foundation.css">
+<!-- <link rel="stylesheet" href="<txp:site_url />Textpattern-Foundation/foundation-sites/dist/css/foundation-sites.min.css"> -->
 
-<!-- HTML5/Media Queries support for IE8 (you can remove this section and the corresponding 'js' directory file if you don't intend to support IE8) -->
-    <!--[if lt IE 9]>
-        <script src="<txp:site_url />js/html5shiv.js"></script>
-        <txp:css format="link" media="" name="ie8" />
-    <![endif]-->
-
-	<script src="<txp:site_url />txp.foundation/js/vendor/custom.modernizr.js"></script>
-	
 </head>
 
 <body class="<txp:section />-page">
@@ -128,9 +121,9 @@
 
 <!-- right (complementary) column -->
             <div role="complementary" class="large-4 columns">
-            
+
             <txp:output_form form="tf_search_form" />
-            
+
                 <!-- Feed links, default flavor is rss, so we don't need to specify a flavor on the first feed_link -->
                 <p><txp:feed_link label="RSS" class="feed-rss" /> / <txp:feed_link flavor="atom" label="Atom" class="feed-atom" /></p>
 
