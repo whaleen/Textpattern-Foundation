@@ -1,7 +1,7 @@
 Textpattern-Foundation
 ==============
 
-Textpattern &amp; Foundation 4
+Textpattern &amp; Foundation 6
 
 Textpattern is the CMS of legend. Foundation is a CSS/JS Framework.
 
