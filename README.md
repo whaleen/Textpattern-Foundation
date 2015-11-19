@@ -1,9 +1,11 @@
-txp.foundation
+Textpattern-Foundation
 ==============
 
 Textpattern &amp; Foundation 4
 
-Requires [cnk_versioning](https://github.com/whaleen/Textpattern-Foundation/blob/master/textpattern/plugins/cnk_versioning.txt) plugin.
+Textpattern is the CMS of legend. Foundation is a CSS/JS Framework.
+
+Requires the [cnk_versioning](https://github.com/whaleen/Textpattern-Foundation/blob/master/textpattern/plugins/cnk_versioning.txt) Textpattern plugin.
 
 ## Install
 
