@@ -1,7 +1,7 @@
 Foundation 6 for Textpattern CMS
 ==============
 
-Older: [https://github.com/whaleen/Textpattern-Foundation/tree/Foundation-4](Textpattern &amp; Foundation 4)
+Older: [Foundation 4 branch](https://github.com/whaleen/Textpattern-Foundation/tree/Foundation-4)
 
 ### Here now is 6
 
