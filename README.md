@@ -15,6 +15,8 @@ Requires the [cnk_versioning](https://github.com/whaleen/Textpattern-Foundation/
 
 ## Using Sass
 
-    $ cd Textpattern-Foudnation
-    $ gem install sass
-    $ sass --watch scss:css
+```
+$ cd Textpattern-Foundation
+$ gem install sass
+$ sass --watch scss:css
+```
