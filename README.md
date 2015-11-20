@@ -1,7 +1,9 @@
 Foundation 6 for Textpattern CMS
 ==============
 
-Textpattern &amp; Foundation 6
+Older: [<a href="]https://github.com/whaleen/Textpattern-Foundation/tree/Foundation-4](Textpattern &amp; Foundation 4)
+
+### Here now is 6
 
 Textpattern is the CMS of legend. Foundation is a CSS/JS Framework.
 
