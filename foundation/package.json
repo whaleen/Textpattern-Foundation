@@ -36,7 +36,7 @@
     "url": "https://github.com/zurb/foundation-sites/issues"
   },
   "dependencies": {
-    "jquery": "^2.1.0",
+    "jquery": "^3.4.1",
     "what-input": "^1.1.2"
   },
   "description": "[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zurb/foundation-sites?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)",
